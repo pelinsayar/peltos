@@ -8,6 +8,9 @@ Bu uygulama, İzmir için canlı hava durumu verilerini kullanarak bisiklet kira
 Aşağıdaki seçenekleri doldur ve tahminleri gör! 🌟
 """)
 
+git add models/bike_rentals_model.pkl  # Dosyayı ekle
+git commit -m "Model dosyasını eklendi"  # Commit mesajı
+git push  # GitHub'a yükle
 
 
 
